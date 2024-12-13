@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p51328-e442308.adobeaemcloud.com/bin/franklin.delivery/vaibhavhelium/aem-edge-getting-started/main"
-    type: "markup"
-    suffix: ".html"
+  /: https://drive.google.com/drive/u/3/folders/1bft-V6sgsfkJSlgKamXTSfDDgY2lxoBp

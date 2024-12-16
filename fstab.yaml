@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/3/folders/1bft-V6sgsfkJSlgKamXTSfDDgY2lxoBp
+  /: url: https://loalhost:4502/bin/franklin.delivery/iamhelium/helium-wapha/main
+  type: "markup"
+  suffix: ".html"
